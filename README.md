@@ -1,4 +1,4 @@
-$ git config --global user.nameYes. Here is a **clean Markdown (`.md`) file** for your GitHub repository, focused on **Java, Python, DSA, and Web Development**.
+
 
 # 👋 Hi, I'm Gajanan Dudhate
 
